@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me: don't
+- 📫 How to reach me: 
 - ⚡ Fun fact: The mitochondria is the power house of the cell
 
 <!---
